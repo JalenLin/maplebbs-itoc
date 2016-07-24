@@ -63,4 +63,6 @@ main(argc, argv)
   }
 
   printf("µ²§ô¡I\n");
+
+  return 0;
 }
